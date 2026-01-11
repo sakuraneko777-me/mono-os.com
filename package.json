@@ -1,0 +1,10 @@
+{
+  "name": "mono-os",
+  "version": "1.0.0",
+  "description": "MONO OS - AI Companion System with Builder app",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
